@@ -14,6 +14,4 @@ For documentation on how to use Sunodo refer to https://docs.sunodo.io
 
 For documentation on how to use Cartesify refer to https://github.com/Calindra/cartesify
 
-** Cartesify requires TypeScript 5 **
-
 This is a template for TypeScript Cartesi DApps.
