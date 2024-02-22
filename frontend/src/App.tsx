@@ -53,7 +53,7 @@ function App() {
 
     results = await response.json();
     setLoading(false)
-    setResult(results)
+    setResult(JSON.stringify(results))
     
   }
 
