@@ -1,6 +1,7 @@
 # TypeScript Cartesify DApp Template
 
 **Cartesify requires TypeScript 5**
+
 **Creating the frontend with create-react-app script is discouraged as it will create a project with Typescript 4**
 
 This is a Sunodo template for Typescript Cartesi DApps.
