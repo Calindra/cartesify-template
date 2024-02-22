@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react';
 import './App.css';
 import { Cartesify } from "@calindra/cartesify";
 import { Button, Heading } from '@chakra-ui/react';
-import { BrowserProvider } from 'ethers';
+import { BrowserProvider, Eip1193Provider } from 'ethers';
 
 const fetch = Cartesify.createFetch({
   dappAddress: '0x70ac08179605AF2D9e75782b8DEcDD3c22aA4D0C',

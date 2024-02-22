@@ -2,6 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
+  "type": "module",
   "dependencies": {
     "@calindra/cartesify": "^0.1.1",
     "@chakra-ui/react": "^2.8.2",
