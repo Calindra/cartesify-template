@@ -1,4 +1,4 @@
-# TypeScript Carte DApp Template
+# TypeScript Cartesify DApp Template
 
 
 This is a Sunodo template for Typescript Cartesi DApps.
