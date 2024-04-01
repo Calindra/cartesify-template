@@ -2,3 +2,6 @@
 /dist
 /node_modules
 src/schema.d.ts
+/backend/node_modules
+/backend/dist
+/backend/src/schema.d.ts
