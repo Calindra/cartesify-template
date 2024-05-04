@@ -5,7 +5,7 @@ import { Button, Heading } from '@chakra-ui/react';
 import { BrowserProvider, Eip1193Provider } from 'ethers';
 
 const fetch = Cartesify.createFetch({
-  dappAddress: '0x70ac08179605AF2D9e75782b8DEcDD3c22aA4D0C',
+  dappAddress: '0xab7528bb862fb57e8a2bcd567a2e929a0be56a5e',
   endpoints: {
     graphQL: new URL("http://localhost:8080/graphql"),
     inspect: new URL("http://localhost:8080/inspect"),

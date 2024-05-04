@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "TypeScript DApp",
   "dependencies": {
-    "@calindra/cartesify-backend": "^0.1.2",
+    "@calindra/cartesify-backend": "^1.0.1",
     "express": "^4.18.2",
     "openapi-fetch": "^0.7",
     "viem": "^1"
